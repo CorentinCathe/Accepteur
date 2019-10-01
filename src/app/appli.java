@@ -1,3 +1,11 @@
+/**
+ * @author Corentin CATHELINAIS
+ * @date first october 2019
+ * @school University of Nantes
+ * @professor Mr ATTIOGBE Jérémie
+ */
+
+
 package app;
 import automata.*;
 
